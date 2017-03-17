@@ -1,0 +1,21 @@
+{
+  "name": "lucy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "artyom.js": "^1.0.5",
+    "words-to-num": "0.0.2"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "lite-server": "^2.3.0"
+  }
+}
